@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Financial Advisor",
+  "description": "A smart finance tracker that uses AI to automatically categorize your transactions based on merchant names, helping you analyze income, fixed bills, and flexible spending habits.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
